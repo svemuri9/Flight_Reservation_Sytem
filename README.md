@@ -13,8 +13,6 @@
 
 
 
-
-
 #### Details
 - Created a web application where logged in users as well as search and book flights.
 - Added feature to register new users and implement login.
@@ -24,11 +22,6 @@
 - Created Integration layer(REST API) for flight checkin microservice to check in passengers
 with reservations. 
 
-
-
-#### Microservice for checking in passengers
-
-https://github.com/deepanshululla/flight-checkin
 
 
 #### Database Model
